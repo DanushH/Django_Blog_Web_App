@@ -1,5 +1,5 @@
 .page-header {
-    background-color: #1c9a63;
+    background-color: #128336;
     margin-top: 0;
     margin-bottom: 40px;
     padding: 20px 20px 20px 40px;
@@ -40,8 +40,13 @@ h4 {
 .top-menu:visited {
     color: #ffffff;
     float: right;
-    font-size: 26pt;
+    font-size: 20pt;
     margin-right: 20px;
+    margin-left: 20px;
+}
+
+#user-greet {
+    font-size: 20pt;
 }
 
 .post {
@@ -68,4 +73,8 @@ h4 {
 .btn-secondary:hover {
     color: #FFFFFF;
     background-color: #1e5913;
+}
+
+.comment {
+    margin: 25px;
 }
