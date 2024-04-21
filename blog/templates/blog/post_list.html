@@ -8,7 +8,8 @@
     </time>
     <h2><a href="{% url 'post_detail' pk=post.pk %}">{{ post.title }}</a></h2>
     <p>{{ post.text|truncatewords:50 }}</p>
-    <a href="{% url 'post_detail' pk=post.pk %}">Comments: {{ post.comments.count }}</a>
+
+    <a href="{% url 'post_detail' pk=post.pk %}" id="comment-count">Comments: {{ post.approved_comment_count }}</a>
 </article>
 {% endfor %}
 {% endblock %}
