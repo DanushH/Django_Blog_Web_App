@@ -11,6 +11,13 @@ Application link : https://danuherath.pythonanywhere.com
 
 <br/>
 
+## Tech Stack
+[![Python][Python-badge]][Python-url]
+[![Django][Django-badge]][Django-url]
+[![Bootstrap][Bootstrap-badge]][Bootstrap-url]
+
+<br/>
+
 ## Getting Started
 Run your own local copy by following these steps.
 
@@ -51,7 +58,13 @@ Run your own local copy by following these steps.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[Python-badge]: https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=#F1C40F
+[Python-url]: https://www.python.org
+[Django-badge]: https://img.shields.io/badge/Django-black?style=for-the-badge&logo=django&logoColor=#145A32
+[Django-url]: https://www.djangoproject.com
+[Bootstrap-badge]: https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap&logoColor=#4A235A
+[Bootstrap-url]: https://getbootstrap.com/
+[linkedin-shield]: https://img.shields.io/badge/Linkedin-black?style=for-the-badge&logo=linkedin&logoColor=#21618C
 [linkedin-url]: https://linkedin.com/in/danushika-herath
 
 <br/>
